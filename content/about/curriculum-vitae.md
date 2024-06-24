@@ -1,7 +1,7 @@
 ---
 title: "Curriculum Vitae"
 date: 2024-06-23T14:27:38-05:00
-draft: true
+draft: false
 toc: true
 cascade:
   type: docs

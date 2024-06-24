@@ -1,7 +1,13 @@
 ---
 title: "Teaching Statement"
 date: 2024-06-23T15:58:31-05:00
-draft: true
+draft: false
+cascade:
+  type: docs
+sidebar:
+  open: true
+bibFile: bib.json
+weight: 3
 ---
 
 Montaque Reynolds \

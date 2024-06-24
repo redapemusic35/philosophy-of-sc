@@ -2,6 +2,12 @@
 title: "Sche View From Everywhere"
 date: 2024-06-21T12:52:53-05:00
 draft: false
+cascade:
+  type: docs
+sidebar:
+  open: true
+bibFile: bib.json
+weight: 1
 ---
 
 # The View from everywhere: temporal self-experience and the Good life

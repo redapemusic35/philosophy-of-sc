@@ -9,6 +9,7 @@ sidebar:
 cascade:
   type: docs
 bibFile: bib.json
+weight: 2
 ---
 
 There are two questions which an early Marya Schechtman asks regarding identity and personhood.

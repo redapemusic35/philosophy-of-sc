@@ -4,6 +4,11 @@ date: 2024-06-10T18:19:53-05:00
 draft: false
 weight: 4
 bibFile: bib.json
+cascade:
+  type: docs
+sidebar:
+  open: true
+bibFile: bib.json
 ---
 
 John Gilmore defines the continuity view about expressive emotions, as emotions that are apt *if and only if* they correctly represent the source of that emotion, if that source has the qualities that are relevant for the expression of that emotion. {{< cite "gilm20" 95 >}}

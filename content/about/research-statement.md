@@ -1,7 +1,7 @@
 ---
 title: "Research Statement"
 date: 2024-06-23T13:57:43-05:00
-draft: true
+draft: false
 cascade:
   type: docs
 sidebar:

@@ -1,5 +1,6 @@
 ---
 title: Aesthetics of Identity
+draft: false
 cascade:
   type: docs
 sidebar:

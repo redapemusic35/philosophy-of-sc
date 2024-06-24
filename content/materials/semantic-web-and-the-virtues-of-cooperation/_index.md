@@ -2,6 +2,10 @@
 title: "Semantic Web and the Virtues of Cooperation"
 date: 2024-06-24T00:53:06-05:00
 draft: false
+cascade:
+  type: docs
+sidebar:
+  open: true
 bibFile: bib.json
 ---
 
