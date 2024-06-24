@@ -1,27 +1,33 @@
 ---
-title: A Philosophy of Play
-toc: false
+title: A Philosophy of Play and Meaning
+subtitle: Analyzing moral expression of sentiment in fiction and other thoughtful exercizes
+toc: true
 ---
 
-Games are a kind of cultural artifact. Like other cultural artifacts, they make possible important and wide ranging questions. These include:
+My research revolves around the fundamental question of whether there exists a relationship between moral knowledge and popular (i.e., social) narratives, particularly those embedded within music. I argue this question is related to ones about moral testimony in epistemology literature. Drawing inspiration from notable thinkers like Robert Hopkins, Nomy Arpaly, David Enoc, Laura Callahan, Jesse Prinz, and Michael Slote, who have championed ethical theories and those centered in moral psychology, such as emotionism and sentimentalism, I delve into the multifaceted claims surrounding the idea that these theories connect our emotions with our moral judgments.
 
-* Practical versus intrinsic benefits
-* Acceptable sources and methods of children's education
-* Questions about their ontological status
-* Normative standards of play
+<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Fmontaque.reynolds%2Fvideos%2F447410658183298%2F&show_text=false&width=267&t=0" width="500" height="600" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
-Among these, I understand popular music as a kind of narrative, and moral knowledge as a way of defining behavior through identity. I am interested more broadly in artifacts of culture. Artifacts of culture I understand as sources of testimony which a culture uses to communicate various values to members on the inside and outside of that culture.
+In the rich landscape of psychological literature on narratives, Jerome Bruner (1991), E.H. Erikson (1968), see narratives as pivotal tools that inform our self-identity, and infuse our lives with meaning, a vital component of psychological development. But there are other philosophers who have also contributed significantly to literature on narrative. I follow individuals such as Eleonore Stump (2020) and Martha Nussbaum and anchor my research in the context of human well-being related to this body of literature. This work also draws upon psychological studies which emphasize the role of narratives in community-building, the formation of pro-social attitudes, and the enhancement of emotional bonds among a society’s members.
 
-This blog is a collection of scholarly readings and their commentary, on the nature of mind and imagination central to aesthetic questions of play.
+<iframe src="./449155085_1535682897379477_3913076558011686224_n.jpg" width="500" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
-## Explore
+My dissertation addresses two key inquiries in moral epistemology and cognitivism. First, it questions the tenability of moral testimony. Scholars like Alison Hills (2009, 2013) and Sarah McGrath (2018) express concerns about the justification of moral actions based on testimony, as they may lack moral worth. This leads to the second question regarding emotions. While emotions towards fiction are common, their appropriateness varies depending on context, challenging the notion of apt emotional expression. In response to the challenge of apt emotional expression directed at art, I consider an ethic of care. Rosalind Hursthouse has noted once that virtue ethics enables us to perceive the complexity in many moral decisions. That it is not always the right apprehension of facts that count, but rather sometimes it is the right attitude, facts about our emotions, that is more relevant than the physical facts.
 
-{{< cards >}}
-  {{< card link="materials" title="Blog" icon="user" >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
-  {{< card link="about" title="About" icon="user" >}}
-{{< /cards >}}
+<iframe src="./faith-profile.jpg" width="500" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
-## Documentation
+I explore the relationship between fiction and moral understanding, contrasting standard epistemological cases with moral epistemological ones. I then delve into philosophical accounts of narrative, proposing that narratives offer avenues for affective moral understanding. This involves feeling appropriately in response to moral situations as depicted in some fictions. This project examines psychological perspectives on narrative, particularly those linking narrative understanding to human flourishing, whether narrative gets an account of human flourishing correct. Does a given narrative represent the emotions in each context in a way that would accurately represent a flourishing life? Does a given fiction represent sorrow in response to the loss of a close friend or apathy? Finally, it considers whether popular music, as a form of non-classical narrative, contributes to human flourishing and moral enhancement, by providing a comprehensive model that aligns with philosophical and psychological perspectives on narrative and well-being.
 
-For more information, visit [Hextra](https://imfing.github.io/hextra).
+
+<iframe src="./faith-n-amanda.jpg" width="600" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+In terms of my professional journey, I have gained valuable experience in the academic realm. From 2019 to 2021, I served as an assistant to the editor for the academic journal Res Philosophica. In this role, I meticulously edited journal submissions, ensuring compliance with style standards, built bibliography libraries, and converted documents from various formats into LaTex.
+Continuing my academic pursuits, I became a member of Feminist X-Phi, an innovative research collaboration hosted at CUNY Graduate Center, from 2021 to 2022. Within this dynamic environment, I not only presented my own research regularly but also collaborated with fellow members on empirical projects, displaying my ability to work effectively within research-focused communities.
+In 2022, I furthered my research expertise as a research assistant at the Walter J. Ong Center for the Digital Humanities. During this year-long assistantship, I delivered presentations on tools for annotating objects in machine learning and conducted comparative analyses of sentiment analysis algorithms using Python and R.
+
+The links above will direct you to a blog containing various reflections to work on moral psychology, identity, narrative, and playfulness. It also includes some preliminary projects centered on sentiment analysis and music lyrics.
+
+Outside the realm of academia, I attempt various experiments on sentiment analysis, which explains the tutorial pages on sentiment analysis in data science. My focus is on the way such research can aid our understanding emotional expression in popular media, with a particular focus on popular songs.
+
+Beyond my professional commitments, I cherish spending quality time with my family, engaging in activities such as playing video games with my son, creating plays and shows with my daughter, and witnessing the developmental milestones of our newest addition. Additionally, I relish talks with my wife, as it provides a welcome balance to my academic pursuits and bike rides with my children.
+

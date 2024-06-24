@@ -4,6 +4,8 @@ title: A Philosophy of Play
 # import hextra as module
 module:
   imports:
+  - path: hugo-cite
+  - path: github.com/martignoni/hugo-notice
   - path: github.com/imfing/hextra
 
 markup:
@@ -19,7 +21,7 @@ markup:
 menu:
   main:
     - name: Blog
-      pageRef: /materials
+      pageRef: /materials/
       weight: 1
     - name: Docs
       pageRef: /docs
@@ -28,7 +30,7 @@ menu:
       pageRef: /about
       weight: 3
     - name: Contact ↗
-      url: "https://github.com/imfing"
+      url: "https://github.com/redapemusic35"
       weight: 4
     - name: Search
       weight: 5
@@ -36,12 +38,12 @@ menu:
         type: search
     - name: GitHub
       weight: 6
-      url: "https://github.com/imfing/hextra-starter-template"
+      url: "https://github.com/redapemusic35/philosophy-of-sc"
       params:
         icon: github
     - name: Twitter
       weight: 7
-      url: "https://twitter.com/"
+      url: "https://x.com/montaquereynol2"
       params:
         icon: x-twitter
 
@@ -63,7 +65,7 @@ params:
     type: giscus
 
     giscus:
-      repo: <repository>
-      repoId: <repository ID>
-      category: <category>
-      categoryId: <category ID>
+      repo: "redapemusic35/philosophy-of-sc"
+      repoId: "R_kgDOMGD-bA"
+      category: "General"
+      categoryId: "DIC_kwDOMGD-bM4Cf-NV"
