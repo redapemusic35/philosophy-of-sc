@@ -1,7 +1,7 @@
 ---
 title: "Materials"
 date: 2024-06-24T00:32:58-05:00
-draft: true
+draft: false
 ---
 
 Games and music are kinds of cultural artifacts. Like other cultural artifacts, they make possible important and wide ranging questions. These include:

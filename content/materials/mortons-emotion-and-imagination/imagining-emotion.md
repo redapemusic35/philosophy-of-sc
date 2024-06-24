@@ -1,7 +1,7 @@
 ---
 title: "Imagining Emotion"
 date: 2024-06-11T12:45:45-05:00
-draft: true
+draft: false
 weight: 1
 ---
 

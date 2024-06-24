@@ -1,7 +1,7 @@
 ---
 title: "Imagining Moral Emotions"
 date: 2024-06-11T12:47:23-05:00
-draft: true
+draft: false
 weight: 3
 ---
 

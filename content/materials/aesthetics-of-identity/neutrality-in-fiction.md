@@ -1,7 +1,7 @@
 ---
 title: "Neutrality in Fiction"
 date: 2024-06-10T18:19:53-05:00
-draft: true
+draft: false
 weight: 4
 bibFile: bib.json
 ---

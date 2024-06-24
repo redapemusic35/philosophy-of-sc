@@ -1,7 +1,7 @@
 ---
 title: "Schechtman on Personhood and Personal Identity"
 date: 2024-06-22T10:45:49-05:00
-draft: true
+draft: false
 cascade:
   type: docs
 sidebar:

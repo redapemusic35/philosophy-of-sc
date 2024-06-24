@@ -1,7 +1,7 @@
 ---
 title: "Motivating Apt Emotions"
 date: 2024-06-11T12:57:41-05:00
-draft: true
+draft: false
 weight: 4
 ---
 

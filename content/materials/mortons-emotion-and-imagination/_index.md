@@ -1,7 +1,7 @@
 ---
 title: "Mortons Emotion and Imagination"
 date: 2024-06-11T11:57:50-05:00
-draft: true
+draft: false
 cascade:
   type: docs
 sidebar:
@@ -11,7 +11,7 @@ cascade:
 bibFile: bib.json
 ---
 
-What is the link between emotion and imagination?
+What is the link between emotion and imagination? This page should have its own folder like some of the other reflections. It will eventually. I am currently in the process of moving many of my notes from an older repository to this one.
 
 Adam {{< cite mort13 >}} argues that through the use of imagination, we have the capacity to imagine another's moral emotions by imagining their imaginings.
 

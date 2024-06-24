@@ -1,7 +1,7 @@
 ---
 title: "Failing to Imagine Emotion"
 date: 2024-06-11T12:46:25-05:00
-draft: true
+draft: false
 weight: 2
 ---
 
