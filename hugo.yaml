@@ -30,7 +30,7 @@ menu:
       pageRef: /about/
       weight: 3
     - name: Contact ↗
-      url: "https://github.com/redapemusic35"
+      url: "mailto:montaque.reynolds@slu.edu"
       weight: 4
     - name: Search
       weight: 5
