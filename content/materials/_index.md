@@ -31,7 +31,7 @@ This blog is a collection of scholarly readings and their commentary, on the nat
 ## Explore
 
 {{< cards >}}
-  {{< card link="phil-of-sc" title="A Philosophy of Star Citizen" icon="user" >}}
+  {{< card link="a-philosophy-of-star-citizen" title="A Philosophy of Star Citizen" icon="user" >}}
   {{< card link="moral-stories" title="Moral Stories: An Introduction to Philosophy" icon="book-open" >}}
   {{< card link="aesthetics-of-identity" title="John Gilmore's Apt Imaginings" icon="user" >}}
 {{< /cards >}}

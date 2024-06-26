@@ -27,7 +27,7 @@ menu:
       pageRef: /docs/
       weight: 2
     - name: About
-      pageRef: /about/
+      url: "https://montaque-reynolds.com"
       weight: 3
     - name: Contact ↗
       url: "mailto:montaque.reynolds@slu.edu"
