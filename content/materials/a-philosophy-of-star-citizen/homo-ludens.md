@@ -2,12 +2,8 @@
 title: "Homo Ludens by Johan Huizinga"
 date: 2024-06-25T20:56:10-05:00
 draft: false
-cascade:
-  type: docs
-sidebar:
-  open: true
 bibFile: bib.json
-weight: 3
+weight: 2
 ---
 
 Who are we as a species? Are *the reasonable ones*? Can we be defined by our unique use of reason? Does our reason justify future optimism about the state of the planet, or universe and our relationships to these?

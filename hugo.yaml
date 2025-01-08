@@ -1,9 +1,11 @@
+theme: "hextra"
 # Hugo configuration file
 title: A Philosophy of Play
 
 # import hextra as module
 module:
   imports:
+  - path: hugo-embed-pdf-shortcode
   - path: hugo-cite
   - path: github.com/martignoni/hugo-notice
   - path: github.com/imfing/hextra

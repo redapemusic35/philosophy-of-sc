@@ -2,12 +2,8 @@
 title: "Introduction Tae Nguyen"
 date: 2024-06-25T20:49:53-05:00
 draft: false
-cascade:
-  type: docs
-sidebar:
-  open: true
 bibFile: bib.json
-weight: 2
+weight: 1
 ---
 
 > “Some have approached games as something like a text, deploying theoretical frameworks from the study of narrative, fiction, and rhetoric to interrogate games for their representational content” ([Nguyen, 2017, p. 1](zotero://select/groups/2202160/items/8SZFENUU)) ([pdf](zotero://open-pdf/groups/2202160/items/YJDXNEB6?page=1&annotation=245TSBJZ))

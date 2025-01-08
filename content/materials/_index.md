@@ -18,9 +18,9 @@ In the following are various reflections on the question regarding play's abilit
 ## Explore
 
 {{< cards >}}
-  {{< card link="materials" title="Artifacts of Play and Cultural Identity" icon="user" >}}
+  {{< card link="./a-philosophy-of-star-citizen" title="Artifacts of Play and Cultural Identity" icon="user" >}}
   {{< card link="./../docs/" title="Site Documentation" icon="book-open" >}}
-  {{< card link="./../about" title="Learn about the Author of the Site Here" icon="user" >}}
+  {{< card link="http://www.montaque-reynolds.com" title="Learn about the Author of the Site Here" icon="user" >}}
 {{< /cards >}}
 
 ## Documentation
